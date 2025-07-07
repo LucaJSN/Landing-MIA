@@ -21,6 +21,12 @@ body {
     text-align: center;
   }
 
+  .encabezado h2 {
+    font-size: 6vw;
+    text-align: center;
+    margin: 0;
+  }
+
 
   .formato-logo {
     max-width: 100px;
