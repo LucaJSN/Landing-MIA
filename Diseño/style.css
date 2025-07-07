@@ -4,13 +4,6 @@
 
 }
 
-* {
-  outline: 1px solid red !important;
-}
-html, body {
-  overflow-x: hidden !important;
-}
-
 body {
     margin: 0;
     padding: 0;
